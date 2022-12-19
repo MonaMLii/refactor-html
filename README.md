@@ -1,2 +1,2 @@
-# uci-challenge
+# uci-challenges
 Challenges from classes
